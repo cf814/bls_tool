@@ -11,6 +11,5 @@ list next steps to apply - give user an action item
 javascript
 SQL
 d3
-html
-css
+html/css
 
