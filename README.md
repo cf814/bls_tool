@@ -1,5 +1,5 @@
 # bls_tool
-A tool to explore opportunities, skills and salaries via keyword search
+A tool to explore career opportunities, skills and salaries via keyword search
 
 ## to do 
 compare LinkedIn, Glassdoor, Monster, O*Net search/content capabilities
